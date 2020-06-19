@@ -1,0 +1,2 @@
+# graphicsmagick
+GraphicsMagick Builds
